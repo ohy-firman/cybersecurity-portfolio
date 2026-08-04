@@ -1,0 +1,33 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and text editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.obsidian/
+.notion/
+
+# Security tool logs and captures
+reports/
+logs/
+captures/
+*.xml
+*.log
+*.pcap
+*.pcapng
+
+# Temporary files
+*.bak
+*.tmp
+*.temp
+~*
+
+# Ensure portfolio main file is never ignored
+!README.md
