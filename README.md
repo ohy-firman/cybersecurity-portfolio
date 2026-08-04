@@ -39,6 +39,7 @@ Performance Analyst with 4+ years of experience in financial services, specializ
 * **Summary/Objective**: Evaluated the authentication security and financial transaction infrastructure of a simulated digital banking application to discover critical input validation flaws before production deployment.
 * **Target Information**: `https://vuln****.org` and `https://vuln****.org/login`
 * **Tools Used**: Burp Suite, Web Browser Developer Tools.
+* **GitHub Link**: [VAPT Findings Report](project-files/Penetration%20Testing%20and%20Findings%20Report.pdf)
 
 #### Reconnaissance & Scanning
 * Processed comprehensive endpoint mapping on the main authentication interfaces. Used Burp Suite to intercept and analyze the structure of inbound parameter parameters sent via HTTP POST requests in JSON formats, locating the entry attack surface for exploitation.
@@ -72,6 +73,7 @@ Performance Analyst with 4+ years of experience in financial services, specializ
 * **Summary/Objective**: Tested administrative routing, parameter constraints, and token validation architectures within a secure laboratory framework to evaluate authorization mechanisms against real-world exploits.
 * **Target Information**: `http://localhost:3000` (OWASP Juice Shop Local Lab via Docker)
 * **Tools Used**: Burp Suite, Inspect Element (Browser Developer Tools).
+* **GitHub Link**: [Broken Access Control Findings Report](project-files/Broken%20Access%20Control%20Findings%20Report.pdf)
 
 #### Reconnaissance & Scanning
 * Analyzed client-side JavaScript behaviors and examined form components using the browser Elements tab. Captured live browser navigation metrics in Burp Suite to analyze state variables and sequential endpoint parameters such as `/rest/basket/`.
@@ -108,6 +110,7 @@ Performance Analyst with 4+ years of experience in financial services, specializ
 * **Summary/Objective**: Conducted an automated site replication and credential logging simulation to map data harvesting workflows and evaluate user-side address-bar validation risks.
 * **Target Information**: `https://host*****.com`
 * **Tools Used**: Social-Engineer Toolkit (SET) on Kali Linux.
+* **GitHub Link**: [Social Engineering Findings Report](project-files/Social%20Engineering%20Findings%20Report.pdf)
 
 #### Reconnaissance & Scanning
 * Analysed the login form interface and input schemas of the authentication target. The clean, single-card vertical structure allows for seamless, pixel-perfect visual duplication to minimize visual discrepancies during active roleplay simulations.
@@ -124,7 +127,7 @@ Performance Analyst with 4+ years of experience in financial services, specializ
   6. Provided the local interface address coordinates (`172.16.62.129`) to establish the direct payload return socket path (*POST back* listener).
   7. Keyed in the target target uniform resource locator parameter (`https://host*****.com`) to copy its structure template.
   8. Launched the dynamic background web controller to harvest victim client parameter submissions.
-* **Proof of Concept (PoC)**: When a local browser target visited the spoofed attacker host and typed credentials into the login form (`tanjungduren@gmail.com` / `rahasia123`), the listener caught the plain-text HTTP POST request packet block, rendering the raw entry variables on the terminal screen and export-saving them as a structured XML session file under `/root/.set/reports/`.
+* **Proof of Concept (PoC)**: When a local browser target visited the spoofed attacker host and typed credentials into the login form (`tan*********@gmail.com` / `*******123`), the listener caught the plain-text HTTP POST request packet block, rendering the raw entry variables on the terminal screen and export-saving them as a structured XML session file under `/root/.set/reports/`.
 
 #### Quick Recap
 * **Impact Assessment**: Successful harvesting operations yield raw passwords, immediately leading to account takeovers, operational identity fraud, and complete infrastructure boundary breaches.
