@@ -1,34 +1,39 @@
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! This repository showcases my technical skills, hands-on security projects, and specialized research in offensive web application security and threat simulation.
+This portfolio highlights my transition from a 4+ year career in data analytics and operational reporting into **Cybersecurity**, covering both **Offensive Security** and **Defensive Operations**. Inside, you will find documented case studies in web application vulnerability assessment, threat detection, SIEM log correlation, and digital forensics investigation.
+
 
 ## About Me
 
-Performance Analyst with 4+ years of experience in financial services, specializing in operational analytics, business intelligence reporting, and account performance monitoring at scale. Experienced in tracking business performance across 2,500+ funded trading accounts and supporting $2M annual revenue operations. I leverage this extensive analytical background in tracking data regularities, operational metrics, and financial anomaly detection as a solid foundation to systematically identify web infrastructure vulnerabilities, execute deep log analysis, and evaluate cybersecurity risks.
+I am a **Cybersecurity Professional** transitioning from a 4+ year career as a Performance Analyst in the financial sector. I recently completed the **Cybersecurity Job Connect Bootcamp at Dibimbing.id**, graduating with **Grade A (92.96/100)** and earning the **MVP Performer Award for Batch 7**.
 
-* **Current Role**: Performance Analyst at Valbury Asia Group and Cybersecurity Apprentice (Expected to graduate: Oct 2026)
-* **Core Focus**: Red Teaming, Web Application Penetration Testing, and Vulnerability Assessment
+In my previous role, I monitored daily activity across 2,500+ active funded accounts to detect trading anomalies and operational irregularities, while streamlining Business Intelligence (BI) reporting workflows. This analytical background provides a strong foundation for cybersecurity investigations:
 
-## Technical Skills
+- **Anomaly Detection to Threat Monitoring:** Translating experience in identifying irregular account patterns into analyzing system telemetry, network traffic, and SIEM logs.
+- **Risk Profiling to Vulnerability & Incident Analysis:** Applying structured data evaluation to assess technical vulnerabilities (CVSS scoring), trace root causes, and deliver actionable remediation reports.
+- **Career Path Preferences:** Penetration Tester, SOC Analyst, InfoSec Analyst, Security Engineer and other Cybersecurity roles.
 
-### Cybersecurity Tools
-* **Network & Web Security**: Nmap, Wireshark, Burp Suite
-* **Threat Simulation**: Social-Engineer Toolkit (SET)
 
-### Data Analytics & Platforms
-* **Analytics & BI**: Meta Trader 4 (Trade Log Analytics), Metabase (BI Reporting), Excel/Google Sheets (Advanced automation, formulas, pivot tables)
-* **Core Competencies**: Vulnerability Assessment, Anomaly Tracking, Data Visualization
 
----
+## Skills & Certifications
 
-## Certifications & Training
+### Technical & Security Skills
+- **Offensive Security:** Web Application Penetration Testing (OWASP Top 10), Vulnerability Assessment, Privilege Escalation, System Exploitation, CVSS Risk Scoring & Remediation Reporting.
+- **Defensive Security:** SIEM Log Analysis & Correlation, Threat Detection & Behavioral Analytics, Network Traffic Analysis, Endpoint Telemetry, Incident Response (NIST Framework), Digital Forensics.
+- **Data & Operational Analytics:** Anomaly Detection, Risk Profiling, Log Extraction, Data Visualization, Business Intelligence Reporting.
 
-* **Cybersecurity Job Connect Bootcamp** – Dibimbing.id (Current Post Test Score: 92.5)
-* **Intro to Data Analytics** – RevoU Indonesia
-* **Fast Track - Website Development** – Coding Studio
-* **Registered Financial Planner (RFP®)** – FPSB Indonesia
+### Tools Stack
+- **Security & Network Tools:** Wazuh SIEM, Burp Suite, Nmap, Wireshark, Triage Sandbox, Cisco Packet Tracer, Kali Linux / Ubuntu CLI.
+- **Analytics & Data Tools:** Excel / Google Sheets (Advanced Analytics), Metabase (BI Reporting), MetaTrader 4 (Trade Log Analytics).
 
----
+### Certifications & Training
+- **Cybersecurity Job Connector Bootcamp (Grade A - 92.96/100)** | Dibimbing.id (Nov 2026)
+- **MVP Performer Award Cybersecurity Batch 7** | Dibimbing.id (Nov 2026)
+- **Registered Financial Planner, RFP®** | FPSB Indonesia (Oct 2026 - Sep 2028)
+- **Fast Track - Website Development** | Coding Studio (May 2026)
+- **Intro to Data Analytics** | RevoU Indonesia (Feb 2026)
+
+
 
 ## Project Experience
 
